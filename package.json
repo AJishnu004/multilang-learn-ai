@@ -9,6 +9,9 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "ai": "^6.0.42",
+    "groq-sdk": "^0.37.0",
+    "langchain": "^1.2.11",
     "next": "16.1.4",
     "react": "19.2.3",
     "react-dom": "19.2.3"
